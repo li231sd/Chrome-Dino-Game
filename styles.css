@@ -82,7 +82,7 @@ h1 {
     background-image: url("img/cactus.png");
     background-size: 25px 40px;
 
-    animation: block 1s infinite linear;
+    animation: block 1.5s infinite linear;
 }
 
 @keyframes block {
